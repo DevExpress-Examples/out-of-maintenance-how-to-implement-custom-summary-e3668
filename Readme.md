@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXPivotGrid_CustomSummary/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_CustomSummary/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXPivotGrid_CustomSummary/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXPivotGrid_CustomSummary/MainPage.xaml))
+<!-- default file list end -->
 # How to: Implement Custom Summary
 
 
