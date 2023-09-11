@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="DXPivotGrid_CustomSummary.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">22-9C-3F-7A-38-23-28-A2-16-7C-48-9B-7E-17-A5-6E-9E-BF-A8-EC</my:String>
-  </Application.Resources>
-</Application>
